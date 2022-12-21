@@ -1,1 +1,1 @@
-# highschool-python-projects
+# Highschool Python projects, 2019
